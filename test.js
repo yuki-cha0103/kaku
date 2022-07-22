@@ -1,3 +1,3 @@
-mouse(){
+function mouse(){
 console.log("a")
 }
